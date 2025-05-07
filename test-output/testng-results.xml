@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-07T00:49:41 PKT" name="Default suite" finished-at="2025-05-07T00:50:08 PKT" duration-ms="27143">
+  <suite started-at="2025-05-08T00:19:46 PKT" name="Default suite" finished-at="2025-05-08T00:20:13 PKT" duration-ms="26804">
     <groups>
     </groups>
-    <test started-at="2025-05-07T00:49:41 PKT" name="Default test" finished-at="2025-05-07T00:50:08 PKT" duration-ms="27143">
-      <class name="seleniumChallenges.SortedDropdownList">
-        <test-method signature="listBoxIsSorted()[pri:0, instance:seleniumChallenges.SortedDropdownList@2c767a52]" started-at="2025-05-07T00:49:41 PKT" name="listBoxIsSorted" finished-at="2025-05-07T00:50:08 PKT" duration-ms="27080" status="PASS">
+    <test started-at="2025-05-08T00:19:46 PKT" name="Default test" finished-at="2025-05-08T00:20:13 PKT" duration-ms="26804">
+      <class name="seleniumChallenges.DuplicateOptionsInListBox">
+        <test-method signature="duplicateItemInListBox()[pri:0, instance:seleniumChallenges.DuplicateOptionsInListBox@2c767a52]" started-at="2025-05-08T00:19:46 PKT" name="duplicateItemInListBox" finished-at="2025-05-08T00:20:13 PKT" duration-ms="26724" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- listBoxIsSorted -->
-      </class> <!-- seleniumChallenges.SortedDropdownList -->
+        </test-method> <!-- duplicateItemInListBox -->
+      </class> <!-- seleniumChallenges.DuplicateOptionsInListBox -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

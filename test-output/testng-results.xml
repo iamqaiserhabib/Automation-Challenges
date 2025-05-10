@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-10T18:04:04 PKT" name="Default suite" finished-at="2025-05-10T18:04:09 PKT" duration-ms="4810">
+  <suite started-at="2025-05-10T19:29:32 PKT" name="Default suite" finished-at="2025-05-10T19:30:05 PKT" duration-ms="33266">
     <groups>
     </groups>
-    <test started-at="2025-05-10T18:04:04 PKT" name="Default test" finished-at="2025-05-10T18:04:09 PKT" duration-ms="4810">
-      <class name="seleniumChallenges.FindMandatoryFields">
-        <test-method signature="findMandatoryFieldsOnPage()[pri:0, instance:seleniumChallenges.FindMandatoryFields@2c767a52]" started-at="2025-05-10T18:04:05 PKT" name="findMandatoryFieldsOnPage" finished-at="2025-05-10T18:04:09 PKT" duration-ms="4748" status="PASS">
+    <test started-at="2025-05-10T19:29:32 PKT" name="Default test" finished-at="2025-05-10T19:30:05 PKT" duration-ms="33266">
+      <class name="seleniumChallenges.HandleAJAXCalls">
+        <test-method signature="handleAJAXCalls()[pri:0, instance:seleniumChallenges.HandleAJAXCalls@2c767a52]" started-at="2025-05-10T19:29:32 PKT" name="handleAJAXCalls" finished-at="2025-05-10T19:30:05 PKT" duration-ms="33190" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- findMandatoryFieldsOnPage -->
-      </class> <!-- seleniumChallenges.FindMandatoryFields -->
+        </test-method> <!-- handleAJAXCalls -->
+      </class> <!-- seleniumChallenges.HandleAJAXCalls -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

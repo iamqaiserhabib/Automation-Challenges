@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-10T14:29:58 PKT" name="Default suite" finished-at="2025-05-10T14:32:51 PKT" duration-ms="173330">
+  <suite started-at="2025-05-10T16:32:33 PKT" name="Default suite" finished-at="2025-05-10T16:33:42 PKT" duration-ms="68773">
     <groups>
     </groups>
-    <test started-at="2025-05-10T14:29:58 PKT" name="Default test" finished-at="2025-05-10T14:32:51 PKT" duration-ms="173330">
-      <class name="seleniumChallenges.CountElements">
-        <test-method signature="countElementsOnScrollingPageInfinitly()[pri:0, instance:seleniumChallenges.CountElements@2c767a52]" started-at="2025-05-10T14:29:58 PKT" name="countElementsOnScrollingPageInfinitly" finished-at="2025-05-10T14:32:51 PKT" duration-ms="173262" status="PASS">
+    <test started-at="2025-05-10T16:32:33 PKT" name="Default test" finished-at="2025-05-10T16:33:42 PKT" duration-ms="68773">
+      <class name="seleniumChallenges.FindElements">
+        <test-method signature="findElementOnScrollingPageInfinitly()[pri:0, instance:seleniumChallenges.FindElements@2c767a52]" started-at="2025-05-10T16:32:33 PKT" name="findElementOnScrollingPageInfinitly" finished-at="2025-05-10T16:33:42 PKT" duration-ms="68705" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- countElementsOnScrollingPageInfinitly -->
-      </class> <!-- seleniumChallenges.CountElements -->
+        </test-method> <!-- findElementOnScrollingPageInfinitly -->
+      </class> <!-- seleniumChallenges.FindElements -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

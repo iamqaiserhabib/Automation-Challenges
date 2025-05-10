@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-05-10T16:32:33 PKT" name="Default suite" finished-at="2025-05-10T16:33:42 PKT" duration-ms="68773">
+  <suite started-at="2025-05-10T18:04:04 PKT" name="Default suite" finished-at="2025-05-10T18:04:09 PKT" duration-ms="4810">
     <groups>
     </groups>
-    <test started-at="2025-05-10T16:32:33 PKT" name="Default test" finished-at="2025-05-10T16:33:42 PKT" duration-ms="68773">
-      <class name="seleniumChallenges.FindElements">
-        <test-method signature="findElementOnScrollingPageInfinitly()[pri:0, instance:seleniumChallenges.FindElements@2c767a52]" started-at="2025-05-10T16:32:33 PKT" name="findElementOnScrollingPageInfinitly" finished-at="2025-05-10T16:33:42 PKT" duration-ms="68705" status="PASS">
+    <test started-at="2025-05-10T18:04:04 PKT" name="Default test" finished-at="2025-05-10T18:04:09 PKT" duration-ms="4810">
+      <class name="seleniumChallenges.FindMandatoryFields">
+        <test-method signature="findMandatoryFieldsOnPage()[pri:0, instance:seleniumChallenges.FindMandatoryFields@2c767a52]" started-at="2025-05-10T18:04:05 PKT" name="findMandatoryFieldsOnPage" finished-at="2025-05-10T18:04:09 PKT" duration-ms="4748" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- findElementOnScrollingPageInfinitly -->
-      </class> <!-- seleniumChallenges.FindElements -->
+        </test-method> <!-- findMandatoryFieldsOnPage -->
+      </class> <!-- seleniumChallenges.FindMandatoryFields -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
